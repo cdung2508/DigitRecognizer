@@ -1,1 +1,2 @@
 svm_clf.pkl filter=lfs diff=lfs merge=lfs -text
+knn_clf.pkl filter=lfs diff=lfs merge=lfs -text
